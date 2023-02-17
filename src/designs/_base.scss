@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Poppins:wght@400;600;700&display=swap');
+
+/* reset styles */
+* {
+  color: inherit;
+  margin: 0;
+  
+}
+
+body {
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Poppins', sans-serif;
+  }
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  border: 0;
+  border-top: 1px dotted #efefef;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: 400;
+}
+
+h2{
+  font-size: 35px;
+}
+
+h3{
+  font-size: 25px;
+  font-weight: 400;
+}
+
+h4{
+  font-size: 22px;
+}
+
+h5{
+  font-size: 20px;
+}
+
+h6{
+  font-size: 18px;
+}
+
+p{
+  font-weight: 400;
+  font-size: 22px;
+}
+
+button{
+      display: flex;
+      align-items: center;
+      gap: 6px;
+}
+
+
+// .test {
+//   color: $primary1;
+// }
